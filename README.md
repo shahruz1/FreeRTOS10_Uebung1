@@ -26,7 +26,8 @@ TODO: Write history
 
 Initial from Goran
 Edited by Hüseyin
-shahruz
+Edited by Tharan
+
 
 ## License
 
